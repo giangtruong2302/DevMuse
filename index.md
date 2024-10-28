@@ -6,6 +6,8 @@ author: "Dương Trường Giang"
 thumbnail: "./images/devmuse-banner.jpg"
 tags: ["welcome", "tech", "art", "frontend", "AI"]
 featured: true
+favicon: "/images/favicon.ico"
+metaImage: "/images/og-image.png"
 ---
 
 ![backend_online_2](https://github.com/user-attachments/assets/08ea3c38-1819-4d1c-805a-4580f83c8725)
