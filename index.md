@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog Dyno
+title: Welcome to DevMuse
+description: Developer + Muse (nguồn cảm hứng)
 ---
 
