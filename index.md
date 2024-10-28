@@ -8,6 +8,8 @@ tags: ["welcome", "tech", "art", "frontend", "AI"]
 featured: true
 ---
 
+![backend_online_2](https://github.com/user-attachments/assets/08ea3c38-1819-4d1c-805a-4580f83c8725)
+
 # Welcome to DevMuse 🎨
 
 > *"Code is poetry, technology is art, and innovation is our muse."*
