@@ -3,7 +3,7 @@ title: "Welcome to DevMuse 🎨"
 description: "Where Code Meets Creativity | Developer + Muse"
 date: "2024-10-28"
 author: "Dương Trường Giang"
-thumbnail: "/images/devmuse-banner.jpg"
+thumbnail: "./images/devmuse-banner.jpg"
 tags: ["welcome", "tech", "art", "frontend", "AI"]
 featured: true
 ---
